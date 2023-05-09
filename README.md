@@ -1,4 +1,5 @@
 # MidtermProject-Automation
 
 Jenkins Test
-Commit testing
+Commit testing 
+Edit readme
